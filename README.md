@@ -1,4 +1,7 @@
+![Header](https://user-images.githubusercontent.com/11731407/193980234-fb7cff76-9b93-4c10-bdc2-e10feb6a504a.png)
+
 # 💫About Me :
+
 🔭 I’m currently working on Swift.
 
 🌱 I'm currently learning SwiftUI & Combine.
