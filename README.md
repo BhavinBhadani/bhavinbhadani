@@ -18,8 +18,8 @@
 
 # 💫About Me :
 * Passionate iOS Developer
-* currently working on Swift.
-* currently learning SwiftUI & Combine.
+* Currently working on Swift.
+* Currently learning SwiftUI & Combine.
 * Looking to collaborate on project ideas and code reviews.
 * Ask me anything. I'll be glad to help.
 
